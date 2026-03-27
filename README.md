@@ -91,20 +91,14 @@ I build **production-ready web apps**, **AI-powered automation workflows**, and 
 
 ---
 
-## My Approach
+## How I Work
 
-```
-Google Sheets / MySQL / APIs  →  Apps Script / PHP / Python / n8n  →  React 18 Frontend  →  Navy Blue Dashboard
-```
+> **Listen → Design → Build → Deliver**
 
-- **Navy Blue themed UI** — clean, professional `#001f3f` + `#0074D9` design system
-- **AI-first thinking** — automate repetitive tasks with Agentic AI + n8n before writing manual code
-- **Mobile-first responsive** — works on every device
-- **DataTables integration** — sorting, filtering, CSV/PDF/Print export on every table
-- **Role-based access control** — Super Admin, Admin, HR, Department Head, Employee
-- **SweetAlert2 everywhere** — no native browser dialogs, ever
-- **Skeleton loaders** — smooth loading experience, no blank screens
-- **Activity logging** — full audit trail on every CRUD operation
+1. **Understand the Problem** — I sit with the client, listen to their pain points, and map out exactly what they need
+2. **Design the Database** — Structure tables, relationships, and data flow before writing a single line of code
+3. **Build the Solution** — Turn real business problems into working web apps, dashboards, and automation workflows
+4. **Deliver & Support** — Deploy, test, train the client, and make sure everything runs smooth in production
 
 ---
 
