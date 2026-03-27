@@ -94,32 +94,18 @@ Google Sheets / MySQL / APIs  →  Apps Script / PHP / Python / n8n  →  React 
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rameezscripts&show_icons=true&title_color=0074D9&icon_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&count_private=true&include_all_commits=true" alt="Rameez Scripts GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=rameezscripts&background=001f3f&stroke=0074D933&ring=0074D9&fire=FF6384&currStreakLabel=0074D9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" alt="Rameez Scripts GitHub Streak" height="180" />
+</p>
 
-<a href="https://github.com/rameezscripts">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameezscripts&show_icons=true&title_color=0074D9&icon_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Rameez Scripts GitHub Stats" height="195" />
-</a>
-<a href="https://github.com/rameezscripts">
-  <img src="https://streak-stats.demolab.com?user=rameezscripts&background=001f3f&stroke=0074D933&ring=0074D9&fire=FF6384&currStreakLabel=0074D9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=10" alt="Rameez Scripts GitHub Streak" height="195" />
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameezscripts&bg_color=001f3f&color=FFFFFF&line=0074D9&point=FF6384&area=true&area_color=0074D9&hide_border=true&custom_title=Contribution%20Graph" alt="Rameez Scripts Contribution Activity Graph" width="95%" />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameezscripts&bg_color=001f3f&color=FFFFFF&line=0074D9&point=FF6384&area=true&area_color=0074D9&hide_border=true&custom_title=Contribution%20Graph" alt="Rameez Scripts Contribution Activity Graph" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Rameez Scripts GitHub Trophies" width="90%" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Rameez Scripts GitHub Trophies" width="90%" />
+</p>
 
 ---
 
