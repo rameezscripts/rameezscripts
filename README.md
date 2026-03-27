@@ -85,29 +85,12 @@ Google Sheets / MySQL  →  Apps Script / PHP Backend  →  React 18 Frontend  �
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rameezscripts&show_icons=true&title_color=0074D9&icon_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rameezscripts&show_icons=true&title_color=001f3f&icon_color=0074D9&text_color=333333&bg_color=FFFFFF&border_color=001f3f&count_private=true&include_all_commits=true&rank_icon=github" />
+<a href="https://github.com/rameezscripts">
   <img src="https://github-readme-stats.vercel.app/api?username=rameezscripts&show_icons=true&title_color=0074D9&icon_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Rameez Scripts GitHub Stats" height="195" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rameezscripts&background=001f3f&stroke=0074D933&ring=0074D9&fire=FF6384&currStreakLabel=0074D9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rameezscripts&background=FFFFFF&stroke=001f3f33&ring=0074D9&fire=FF6384&currStreakLabel=001f3f&sideLabels=001f3f&currStreakNum=001f3f&sideNums=333333&dates=666666&border_radius=10&border=001f3f" />
+</a>
+<a href="https://github.com/rameezscripts">
   <img src="https://streak-stats.demolab.com?user=rameezscripts&background=001f3f&stroke=0074D933&ring=0074D9&fire=FF6384&currStreakLabel=0074D9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=10" alt="Rameez Scripts GitHub Streak" height="195" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rameezscripts&layout=donut-vertical&title_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rameezscripts&layout=donut-vertical&title_color=001f3f&text_color=333333&bg_color=FFFFFF&border_color=001f3f&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameezscripts&layout=donut-vertical&title_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&langs_count=8" alt="Rameez Scripts Top Languages — JavaScript, PHP, HTML, CSS, Google Apps Script" height="250" />
-</picture>
+</a>
 
 </div>
 
@@ -116,11 +99,7 @@ Google Sheets / MySQL  →  Apps Script / PHP Backend  →  React 18 Frontend  �
 <!-- Activity Graph — Navy Blue themed -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rameezscripts&bg_color=001f3f&color=FFFFFF&line=0074D9&point=FF6384&area=true&area_color=0074D9&hide_border=true&custom_title=Rameez%20Scripts%20—%20Contribution%20Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rameezscripts&bg_color=FFFFFF&color=001f3f&line=0074D9&point=FF6384&area=true&area_color=0074D9&hide_border=false&custom_title=Rameez%20Scripts%20—%20Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameezscripts&bg_color=001f3f&color=FFFFFF&line=0074D9&point=FF6384&area=true&area_color=0074D9&hide_border=true&custom_title=Rameez%20Scripts%20—%20Contribution%20Graph" alt="Rameez Scripts Contribution Activity Graph" width="95%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameezscripts&bg_color=001f3f&color=FFFFFF&line=0074D9&point=FF6384&area=true&area_color=0074D9&hide_border=true&custom_title=Rameez%20Scripts%20—%20Contribution%20Graph" alt="Rameez Scripts Contribution Activity Graph" width="95%" />
 
 </div>
 
@@ -129,11 +108,7 @@ Google Sheets / MySQL  →  Apps Script / PHP Backend  →  React 18 Frontend  �
 <!-- Trophy Case -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rameezscripts&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Rameez Scripts GitHub Trophies" width="90%" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Rameez Scripts GitHub Trophies" width="90%" />
 
 </div>
 
