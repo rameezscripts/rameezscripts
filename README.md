@@ -102,6 +102,46 @@ I build **production-ready web apps**, **AI-powered automation workflows**, and 
 
 ---
 
+## Client Testimonials
+
+> *"Rameez automated our entire school fee collection using Google Sheets and Apps Script. It saves us 20+ hours every week. The support response time is fast and the code quality is solid. Would hire again."*
+>
+> **Rajesh Sharma** — School Director, Mumbai, India
+
+> *"I hired Rameez to build a complete PHP & MySQL inventory system with role-based access. Delivered on time, clean code, solid security. Our team across 3 states relies on it daily. Professional work, start to finish."*
+>
+> **Michael Johnson** — Operations Manager, Texas, USA
+
+> *"We needed a Google Sheets dashboard to track real-time sales across our 5 stores in Canada. Rameez built it with clean charts and automated email reports. Worth every dollar."*
+>
+> **David Laurent** — Retail Owner, Toronto, Canada
+
+> *"Our company in Dubai needed a secure PHP admin panel with payment tracking and audit logs. Rameez delivered exactly what we needed — fast, secure, and clean. The support response time is quick — no waiting around."*
+>
+> **Ahmed Al Khouri** — CEO, Digital Solutions, Dubai, UAE
+
+> *"I discovered Rameez Scripts on YouTube and was impressed by the tutorials. Got a custom Apps Script solution for our restaurant chain's booking system. The quality speaks for itself. Merci beaucoup!"*
+>
+> **Pierre Dubois** — Restaurant Owner, Paris, France
+
+> *"From a simple Google Sheets template to a full PHP web app with secure login — Rameez handled everything. Clean code, good-looking UI, and solid after-delivery support. I have already referred two friends."*
+>
+> **Zainab Noor** — Startup Founder, Islamabad, Pakistan
+
+> *"I have been following Rameez from Qatar for some time and previously purchased scripts from his platform. After testing him with two custom PHP projects, I can confidently say he exceeded my expectations on both occasions. Not only did he deliver exactly what was requested, but he also added thoughtful enhancements that elevated my initial concept into fully functional, well-structured PHP platforms. His technical expertise, attention to detail, and proactive approach truly stood out."*
+>
+> **BG MEGA** — Client, Qatar
+
+> *"We run a logistics company in London and needed a warehouse management system built on PHP & MySQL. Rameez delivered a fully responsive dashboard with barcode scanning, stock alerts, and role-based access — all within two weeks. Solid work and fair pricing."*
+>
+> **James W.** — Logistics Manager, London, UK
+
+> *"I needed a Google Sheets automation to manage student grades and generate report cards automatically. Rameez built an Apps Script solution with email notifications and PDF exports. It handles 500+ students without slowing down. Completely changed how we handle grading."*
+>
+> **Fatima K.** — School Administrator, Lagos, Nigeria
+
+---
+
 ## GitHub Stats
 
 <p align="center">
