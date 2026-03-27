@@ -111,7 +111,7 @@ Google Sheets / MySQL / APIs  →  Apps Script / PHP / Python / n8n  →  React 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameezscripts&show_icons=true&title_color=0074D9&icon_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&count_private=true&include_all_commits=true" alt="Rameez Scripts GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rameezscripts&show_icons=true&title_color=0074D9&icon_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Rameez Scripts GitHub Stats" height="180" />
   <img src="https://streak-stats.demolab.com?user=rameezscripts&background=001f3f&stroke=0074D933&ring=0074D9&fire=FF6384&currStreakLabel=0074D9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" alt="Rameez Scripts GitHub Streak" height="180" />
 </p>
 
@@ -120,7 +120,7 @@ Google Sheets / MySQL / APIs  →  Apps Script / PHP / Python / n8n  →  React 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Rameez Scripts GitHub Trophies" width="90%" />
+  <img src="https://github-profile-trophy-ruby.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Rameez Scripts GitHub Trophies" width="90%" />
 </p>
 
 ---
