@@ -2,137 +2,69 @@
 
 <div align="center">
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGXxCe0WNNedmFqSWeF761f7Kshhc-NP5ChRQKz9fr97cO8VaarvD0KlCwqHojJVBWv-RAxfOqMI5rD4H78KnARyOc6QgwL1nRRFWf5xNQ1d9F9HfAoLPPGlTyP0GwNl4n-INMEsWLQ4Y7zJtz5bOdAnc2ePH9-uCRgshlo6BsS6gJEz6fhrxL-5U5O3sX/s160/channels4_profile.jpg" alt="Mohammad Rameez Imdad — Rameez Scripts | Full-Stack Developer, AI Engineer & YouTube Educator" width="150" style="border-radius: 50%;" />
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGXxCe0WNNedmFqSWeF761f7Kshhc-NP5ChRQKz9fr97cO8VaarvD0KlCwqHojJVBWv-RAxfOqMI5rD4H78KnARyOc6QgwL1nRRFWf5xNQ1d9F9HfAoLPPGlTyP0GwNl4n-INMEsWLQ4Y7zJtz5bOdAnc2ePH9-uCRgshlo6BsS6gJEz6fhrxL-5U5O3sX/s160/channels4_profile.jpg" alt="Mohammad Rameez Imdad — Rameez Scripts | Full-Stack Developer, AI Engineer & YouTube Educator" width="140" style="border-radius: 50%;" />
 
-<br/>
+# Mohammad Rameez Imdad (Rameez Scripts)
 
-# Mohammad Rameez Imdad
+### Full-Stack Developer | AI & Automation Engineer | YouTube Educator
 
-### `Rameez Scripts`
-
-<samp>Full-Stack Developer | AI & Automation Engineer | YouTube Educator</samp>
-
-<br/>
-
-I build **production-ready web apps**, **AI-powered automation workflows**, and **admin dashboards** — then teach thousands how to do the same on YouTube.
-
-<br/>
+I build **production-ready web apps**, **AI-powered automation workflows**, and **admin dashboards** using Google Apps Script, PHP/MySQL, Python, and React — then teach thousands how to do the same on YouTube.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Rameez_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezscripts)
 [![GitHub](https://img.shields.io/badge/GitHub-rameezscripts-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameezscripts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameezscripts)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rameezscripts&color=0074D9&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
 
 ---
 
-<div align="center">
+## What I Do
 
-### `About Me`
-
-</div>
-
-```yaml
-Name:        Mohammad Rameez Imdad
-Brand:       Rameez Scripts
-Role:        Full-Stack Developer | AI & Automation Engineer
-Location:    Pakistan
-Education:   Self-taught Developer & Educator
-YouTube:     @rameezscripts
-Focus:       Web Apps, AI Agents, Workflow Automation, Admin Dashboards
-```
+- Build **full-stack web applications** with Google Sheets as a database using **Google Apps Script**
+- Develop **PHP/MySQL dashboards** with role-based access, CRUD operations, and real-time reporting
+- Create **React 18 admin panels** with DataTables, Chart.js, SweetAlert2, and responsive Navy Blue UI
+- Build **Agentic AI workflows** — autonomous agents that think, decide & act
+- Automate business processes with **n8n** — connecting 400+ apps visually
+- Write **Python** scripts for data processing, APIs & AI integration
+- Build **WhatsApp bots** with WAHA API for automated messaging & notifications
+- Publish **step-by-step coding tutorials** on YouTube — from beginner to advanced
 
 ---
 
-<div align="center">
-
-### `What I Do`
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Web Development**
-- Full-stack apps with **Google Apps Script** + Google Sheets
-- **PHP/MySQL** dashboards with RBAC & audit trails
-- **React 18** admin panels with Navy Blue UI
-- DataTables, Chart.js, SweetAlert2 integration
-
-</td>
-<td width="50%" valign="top">
-
-**AI & Automation**
-- **Agentic AI** workflows — autonomous agents that think, decide & act
-- **Python** scripts for data processing, APIs & AI integration
-- **n8n** workflow automation — connecting 400+ apps visually
-- WhatsApp bots, email automation, smart notifications
-
-</td>
-</tr>
-</table>
-
----
+## Tech Stack
 
 <div align="center">
 
-### `Tech Stack`
-
-</div>
-
-<div align="center">
-
-**Languages & Frameworks**
-
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-0F9D58?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-001f3f?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-**AI & Automation**
-
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Databases & Backend**
-
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-**Tools & Libraries**
-
-![n8n](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![DataTables](https://img.shields.io/badge/DataTables-336791?style=for-the-badge&logo=datatables&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-8B5CF6?style=for-the-badge&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WAHA](https://img.shields.io/badge/WAHA_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
+## What I Build
 
-### `Projects I Build`
-
-</div>
-
-| Category | What I Build |
-|:---------|:-------------|
+| Category | Examples |
+|----------|----------|
 | **AI Agents & Bots** | Agentic AI workflows, WhatsApp chatbots (WAHA), AI-powered data extraction, smart auto-responders |
 | **Workflow Automation** | n8n pipelines, Google Sheets triggers, email/SMS/WhatsApp automation, multi-app integrations |
 | **CRM & Lead Management** | Lead trackers with follow-ups, pipeline dashboards, chevron status tabs |
@@ -140,38 +72,28 @@ Focus:       Web Apps, AI Agents, Workflow Automation, Admin Dashboards
 | **Finance & Invoicing** | Invoice generators, customer ledgers, income tax reports, payment trackers |
 | **HR & Attendance** | Employee attendance with IP tracking, salary slips, task management |
 | **Inventory & POS** | Stock management, wholesale calculators, e-commerce web apps |
-| **Education & Forms** | Student registration, quiz apps, result portals, admission forms |
+| **Education & Forms** | Student registration, quiz apps with timers, result portals, admission forms |
 
 ---
 
-<div align="center">
-
-### `My Development Approach`
-
-</div>
+## My Approach
 
 ```
-Data Layer              Backend               Frontend                  Output
-─────────────          ─────────              ─────────                 ──────
-Google Sheets    →    Apps Script     →     React 18 UI         →   Navy Blue Dashboard
-MySQL            →    PHP 8+         →     DataTables + Charts  →   Role-Based Admin Panel
-APIs / Webhooks  →    Python / n8n   →     AI Agent Response    →   Automated Workflow
+Google Sheets / MySQL / APIs  →  Apps Script / PHP / Python / n8n  →  React 18 Frontend  →  Navy Blue Dashboard
 ```
 
-- **Navy Blue themed UI** — professional `#001f3f` + `#0074D9` design system across all projects
+- **Navy Blue themed UI** — clean, professional `#001f3f` + `#0074D9` design system
 - **AI-first thinking** — automate repetitive tasks with Agentic AI + n8n before writing manual code
-- **Mobile-first responsive** — every dashboard works on every device
-- **O(1) lookups** — hash maps over loops, indexed queries over full scans, always
-- **Role-based access** — Super Admin, Admin, HR, Department Head, Employee
-- **Full audit trails** — activity logging on every CRUD operation
+- **Mobile-first responsive** — works on every device
+- **DataTables integration** — sorting, filtering, CSV/PDF/Print export on every table
+- **Role-based access control** — Super Admin, Admin, HR, Department Head, Employee
+- **SweetAlert2 everywhere** — no native browser dialogs, ever
+- **Skeleton loaders** — smooth loading experience, no blank screens
+- **Activity logging** — full audit trail on every CRUD operation
 
 ---
 
-<div align="center">
-
-### `GitHub Stats`
-
-</div>
+## GitHub Stats
 
 <div align="center">
 
@@ -202,23 +124,27 @@ APIs / Webhooks  →    Python / n8n   →     AI Agent Response    →   Automa
 
 ---
 
+## Let's Connect
+
 <div align="center">
-
-### `Let's Connect`
-
-<br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezscripts)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameezscripts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameezscripts)
 
-<br/>
+</div>
+
+<div align="center">
 
 **Building the future with code, AI, and automation — one project at a time.**
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0074D9&height=80&section=footer" width="100%" />
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rameezscripts&color=0074D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Rameez Scripts Profile Views" />
 
 </div>
 
